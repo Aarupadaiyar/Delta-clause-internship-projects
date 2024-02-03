@@ -1,0 +1,19 @@
+*{
+    background-color: #000;
+    color: white;
+    
+}
+.header{
+    background-image: url(./images/aaru3.png);
+    height: 100%;
+    width: 50%;
+    background-size: cover;
+    
+
+}
+nav {
+    list-style: none;
+    display: flex;
+    align-self: center;
+    justify-content: space-between;
+}
